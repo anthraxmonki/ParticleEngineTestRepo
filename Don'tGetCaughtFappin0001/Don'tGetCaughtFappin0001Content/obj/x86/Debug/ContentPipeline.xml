@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>earth.png</Source>
+      <Name>earth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\Documents\Visual Studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\earth.xnb</Output>
+      <Time>2013-02-02T02:34:14.5349918-06:00</Time>
+    </Item>
+    <Item>
+      <Source>shuttle.png</Source>
+      <Name>shuttle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\Documents\Visual Studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\shuttle.xnb</Output>
+      <Time>2013-02-02T02:34:14.5359919-06:00</Time>
+    </Item>
+    <Item>
+      <Source>stars.png</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\Documents\Visual Studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\stars.xnb</Output>
+      <Time>2013-02-02T02:34:14.5369919-06:00</Time>
+    </Item>
+    <Item>
+      <Source>fKootenay.spritefont</Source>
+      <Name>fKootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\Documents\Visual Studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\fKootenay.xnb</Output>
+      <Time>2013-02-02T03:08:39.5611046-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SmileyWalk.png</Source>
+      <Name>SmileyWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\SmileyWalk.xnb</Output>
+      <Time>2013-02-02T03:34:51.6721253-06:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2013-02-04T19:57:24.5513172-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blue.png</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\blue.xnb</Output>
+      <Time>2013-02-04T23:06:53.6635932-06:00</Time>
+    </Item>
+    <Item>
+      <Source>red.png</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\red.xnb</Output>
+      <Time>2013-02-04T23:06:59.0519014-06:00</Time>
+    </Item>
+    <Item>
+      <Source>green.png</Source>
+      <Name>green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\green.xnb</Output>
+      <Time>2013-02-04T23:07:10.3775492-06:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2013-02-05T00:04:03.8547889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>diamond.png</Source>
+      <Name>diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\diamond.xnb</Output>
+      <Time>2013-02-05T00:04:03.855789-06:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2013-02-05T00:04:03.8567891-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Anthraxmonki\documents\visual studio 2010\Projects\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\Don'tGetCaughtFappin0001\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-06T20:46:52.9841085-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
